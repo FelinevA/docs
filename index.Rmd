@@ -1,0 +1,19 @@
+---
+title: "Feline van Aagten"
+image: "feline.JPG"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/feline-van-aagten/"
+  - label: Google Scholar
+    url: "https://scholar.google.com/citations?user=9f-Tp28AAAAJ&hl" 
+  - label: OSF
+    url: "https://osf.io/user/p3z4r"
+  - label: Email
+    url: "mailto:feline.vanaagten@radboudumc.nl"
+output:
+  postcards::jolla
+---
+ 
+I am a PhD candidate in the [Lifespan Cognitive Dynamics lab](https://lifespancognitivedynamics.com/) and the [Developmental Psychobiology lab](https://dpblab.org/) at the Donders Institute. 
+
+My PhD is part of the Learning Variability Network Exchange (LEVANTE) project, which is a really cool global project on variability. If that's something you are interested in as well, feel free to send me a message!
